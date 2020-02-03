@@ -1,0 +1,6 @@
+id=enable_eng
+name=Enable Engineering Props
+version=v1
+versionCode=1
+author=Denis Efremov (@evdenis)
+description=Tune your props to an engineering build.
