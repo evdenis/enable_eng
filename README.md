@@ -3,7 +3,7 @@
 This Magisk Module enables engineering build props.
 It allows to activate debugging parts of a firmware.
 Please, disable Magisk Hide for this module.
-If you don't know you are doing, don't use this module.
+If you don't know what you are doing, don't use this module.
 This module can easily softbrick your device.
 
 ## How to install:
